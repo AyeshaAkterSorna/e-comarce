@@ -184,8 +184,9 @@
     }
     .blog img{
         max-width: 1fr;
-        height: 200px;
+        height: 160px;
         border-radius: 10px;
+        align-items: center;
     }
     .one{
         background-color: #fff5f4;
